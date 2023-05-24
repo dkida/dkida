@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**dkida/dkida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="./octocat-1684970291221.png" alt="octocat" />
+</p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
