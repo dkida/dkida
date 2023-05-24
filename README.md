@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <img src="./octocat-1684970291221.png" alt="octocat" />
+    <img src="./octocat.png" alt="octocat" />
 </p>
 
 <!--
